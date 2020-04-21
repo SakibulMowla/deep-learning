@@ -42,3 +42,16 @@ Ex: Size of bedroom, number of rooms in Real Estate example
 
 Not so well defined.
 Ex: Audio, Image, Text.
+
+
+### Why Deep Lwarning taking off
+
+![neural-network-taking-off](img/neural-network-taking-off.JPG)
+
+- NN (large one) works better than traditional algos when you have large amount of data
+- Learning with RELU function doesn't slow down like sigmoid function
+- short (and faster) feedback loop (idea -> code -> result) works better
+
+### About the Course
+
+![outline](img/outline.JPG)
