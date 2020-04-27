@@ -55,3 +55,10 @@ Ex: Audio, Image, Text.
 ### About the Course
 
 ![outline](img/outline.JPG)
+
+
+## Neural Networks Basics
+
+### Logistic regression
+
+- it's an algorithm for binary classification (1 vs 0)
