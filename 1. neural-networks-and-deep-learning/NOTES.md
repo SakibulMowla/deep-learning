@@ -62,3 +62,14 @@ Ex: Audio, Image, Text.
 ### Logistic regression
 
 - it's an algorithm for binary classification (1 vs 0)
+
+![logistic-regression](img/logistic-regression.JPG)
+
+
+### Logistic regression cost function
+
+- calculates the logistic regression parameter w anf b
+- loss function computes the error for a single training example
+- cost function is the average of the loss functions of the entire training set
+
+![loss-function](img/loss-function.JPG)
