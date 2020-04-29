@@ -73,3 +73,9 @@ Ex: Audio, Image, Text.
 - cost function is the average of the loss functions of the entire training set
 
 ![loss-function](img/loss-function.JPG)
+
+### Gradient Descent
+
+![gradient-descent](img/gradient-descent.JPG)
+
+![gradient-descent-derivatives](img/gradient-descent-derivatives.JPG)
