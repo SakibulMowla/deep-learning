@@ -79,3 +79,45 @@ Ex: Audio, Image, Text.
 ![gradient-descent](img/gradient-descent.JPG)
 
 ![gradient-descent-derivatives](img/gradient-descent-derivatives.JPG)
+
+
+### Derivatives
+
+- derivative is other name for **slope** (slope = height / width) 
+- derivatives represent if you increase `a` by an infinitesimal (extremely small) amount, how much the function of a, `f(a)` will change. (Say f(a) = 3a)
+- On a straight line, the function's derivative doesn't change
+- but derivatives can be different for different point of a (different valiues of a). Example function, f(a) = a<sup>2</sup>
+
+### Computation graph
+
+- forward pass computes the output of neural network
+- backward pass computes the gradients / derivatives
+
+### Derivatives with a computation graph
+
+![derivatives-backward](img/derivatives-backward.JPG)
+
+### Logistic Regression Gradient Descent
+
+![logistic-regression-derivatives-1](img/logistic-regression-derivatives-1.JPG)
+
+![logistic-regression-derivatives-2](img/logistic-regression-derivatives-2.JPG)
+
+![logistic-regression-gradient-descent](img/logistic-regression-gradient-descent.JPG)
+
+
+### Vectorization
+
+- art of getting rid of for loops
+
+![logistic-regression-vectorization](img/logistic-regression-vectorization.JPG)
+
+![logistic-regression-vectorization-2](img/logistic-regression-vectorization-2.JPG)
+
+![logistic-regression-derivatives-3](img/logistic-regression-derivatives-3.JPG)
+
+![logistic-regression-derivatives-4](img/logistic-regression-derivatives-4.JPG)
+
+### Broadcasting in Python
+
+![broadcasting](img/broadcasting.JPG)
